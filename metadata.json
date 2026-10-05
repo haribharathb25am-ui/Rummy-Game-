@@ -1,0 +1,6 @@
+{
+  "name": "Royal Rummy Multiplayer",
+  "description": "Real-time online multiplayer 13-card Indian Rummy with private rooms, matchmaking, card grouping, wild jokers, and live action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
